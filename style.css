@@ -1,0 +1,47 @@
+
+body {
+    background-color: #445;
+    color: white;
+}
+
+.logo {
+    background-color: gold;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: black;
+    color: gold;
+}
+
+h1 {
+    text-align: center;
+}
+
+.audi-title, 
+.audi-text {
+    color: skyblue;
+}
+
+.tayota-title, 
+.tayota-text {
+    color: coral;
+}
+
+.bmw-title,
+.bmw-text {
+    background-color: black;
+    color: gold;
+}
+
+.tesla-title,
+.tesla-text {
+    color: pink;
+}
+
+footer {
+    background-color: #234;
+    text-align: center;
+}
